@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 19 12:32:10 2026
 
-@author: gutie
+@author: d/dt Lucas
 """
 
 
