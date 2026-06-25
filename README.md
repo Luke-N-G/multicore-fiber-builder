@@ -27,8 +27,6 @@ The app lets you design coupled-core structures either by manually defining topo
 
 ## Screenshots
 
-Add screenshots / GIFs in `docs/assets/` and link them here.
-
 ### Main window
 
 ![Main window](docs/assets/main-window.png)
