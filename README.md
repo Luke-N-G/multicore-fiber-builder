@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1280358822.svg)](https://doi.org/10.5281/zenodo.20848303)
+
 # MCF Graphical Builder
 
 Interactive GUI for building and analyzing **multicore fibers**.
